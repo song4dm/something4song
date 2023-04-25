@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "gid": "1204437207927809",
+            "name": "エラー通知チャンネルの整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204437207927804",
+            "name": "PMOかたSQLエラーの問い合わせの対応",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204352459916292",
+            "name": "項目リファレンスの検知",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344419392430",
+            "name": "全社マート課題一覧の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204395328409344",
+            "name": "課題一覧の確認",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344418817615",
+            "name": "問い合わせ一覧の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062840",
+            "name": "user_COMMON運用フロー",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204162364010700",
+            "name": "DME Unitの準備",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204407672888957",
+            "name": "[AE]長期待ちチケット対応検討",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204305227952943",
+            "name": "全社マート(main_prefecture調査修正)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204002494576550",
+            "name": "user_COMMONタスクの整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204304930236727",
+            "name": "SQL用Linter調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203937178480402",
+            "name": "全社マートKnowledgeのアウトプット",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204190146370018",
+            "name": "DataMartTeamKnowledgeの整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204267111338269",
+            "name": "マスターテーブル一覧・項目定義書",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204428037226767",
+            "name": "全社マート利用状況分析ダッシュボード作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204456713575965",
+            "name": "`common_mart.users_profiles`のカラム、pay_later_link_dateについて調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        }
+    ]
+}

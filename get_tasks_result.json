@@ -1,0 +1,526 @@
+{
+    "data": [
+        {
+            "gid": "1203326918151978",
+            "name": "全社マートSQL文のリファクタリングをしたい",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1201677798266777",
+            "name": "[user story]【共通】【新】BASE_CLASS設計構築",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204133233463879",
+            "name": "CDO室データ規定",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204277962752340",
+            "name": "全社マートNextAction",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344419392430",
+            "name": "全社マート課題一覧の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344418817615",
+            "name": "問い合わせ一覧の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062840",
+            "name": "user_COMMON運用フロー",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204162364010700",
+            "name": "DME Unitの準備",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204305227952943",
+            "name": "全社マート(main_prefecture調査修正)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204002494576550",
+            "name": "user_COMMONタスクの整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204304930236727",
+            "name": "SQL用Linter調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203937178480402",
+            "name": "全社マートKnowledgeのアウトプット",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204190146370018",
+            "name": "DataMartTeamKnowledgeの整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204267111338269",
+            "name": "マスターテーブル一覧・項目定義書",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204361520405297",
+            "name": "【全社マート】meta_json 全消し対応",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204361520405287",
+            "name": "【user_COMMON】CISO室「note」値についての調査＆返答",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204352459916292",
+            "name": "項目リファレンスの検知",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204409188859264",
+            "name": "spheric-shield-213903.rt_paylite_payment_read.ordersデータ二重問題",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204407672888957",
+            "name": "[AE]長期Pendingチケット対応検討",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204395328409344",
+            "name": "課題一覧の確認",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204395210742153",
+            "name": "リリースノート 整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062842",
+            "name": "全社マートロードマップの作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204243686476913",
+            "name": "user_COMMON.user_master_tbの\nauto_topup_setting_flg（オートチャージ設定フラグ）の問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204360741811071",
+            "name": "全社マート(pai_gm_master_tb追加)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062913",
+            "name": "全社マート関連で質問したいこと整理",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204361520405275",
+            "name": "【全社マート】本番実施",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204361520404186",
+            "name": "【user_COMMON】本番実施",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203769525300694",
+            "name": "DM部担当範囲ケースの確認",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204368359239581",
+            "name": "「2023/2/12」か「2023/2/13」、データに欠損がないかお調べいただきたい",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204360741811055",
+            "name": "[Looker]4/11作業依頼",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204361446269485",
+            "name": "[qas-10]`spheric-shield-213903.user_COMMON.fb_custom_event_tb`や`spheric-shield-213903.user_COMMON.fb_event_tb`に最新データがない",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204249170207423",
+            "name": "BASE_CLASS/common_mart/6views削除",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204296042515232",
+            "name": "all_master_tb_統合版実行失敗ポストモーテムの作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204287325211089",
+            "name": "[qas-9]スケジュールクエリ「order_all_master_tb_統合版」pub/subの追加",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204316389872999",
+            "name": "[qas-4]データマートorders_profilesの公開",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203832850593934",
+            "name": "user_matsuki.clm_cashback_tb",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062836",
+            "name": "全社マートテーブル開発、統合フロー",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326819804545",
+            "name": "[AE]問い合わせサポート(加盟店上限金額ダッシュボード調査依頼)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204316702546057",
+            "name": "[AE]引継ぎ資料作成・引継ぎ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204296042515150",
+            "name": "全社マート内部参照マッピング表",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326819804537",
+            "name": "[AE]問い合わせサポート(加盟店上限金額ダッシュボード変更依頼)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344275013898",
+            "name": "order_transaction_tbにstateカラムを追加できるか・または全社マート提供できるか(一応チケット化)",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204344275013892",
+            "name": "BQ警察（job_id:\nbquxjob_1a910943_1874fd564a8）取り敢えずチケット化",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204335927137458",
+            "name": "[qas-8]spheric-shield-213903.user_COMMON.order_all_master_tbの更新仕組み",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204335927137463",
+            "name": "[qas-7]spheric-shield-213903.user_COMMON.balance_history_tb実行失敗の調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204326959062921",
+            "name": "[qas-6]order_master_tbと、order_transaction_tbでの決済レコード数があっていない",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204183245371645",
+            "name": "[qas-3]customer_withdraw_masterデータ該当なし",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204190146371062",
+            "name": "マスターテーブル一覧・項目定義書のfb_custom_event_tbで項目の問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204243686476893",
+            "name": "user_COMMONなくなるタイミングの問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204243682476883",
+            "name": "全社マート引継ぎ共用会の開催",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204061770309545",
+            "name": "全社マートER図の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204255875975559",
+            "name": "DM部公開ページの編集",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204277962752349",
+            "name": "各加盟店のアタックリストにある、URLは、BIGQUERY内のどのテーブルに存在しますでしょうか？",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204243686476900",
+            "name": "WFOに関する問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204190146370022",
+            "name": "「user_master_tb」と「users_profiles」を作成する際の「main_prefecture」の値に差分がないか",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204267310292609",
+            "name": "マスタテーブルの整備",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204296042515130",
+            "name": "user_COMMON.pai_gm_master_tbの更新",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204297765329296",
+            "name": "[Duplicate] user_COMMON.pai_gm_master_tb更新の問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204200109215440",
+            "name": "[qas-2]fb_custom_event_tb 23/03/16のレコードがない？",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204162364010703",
+            "name": "spheric-shield-213903に公開するデータセット名の統一",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204231404514022",
+            "name": "README.mdレビュー",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204124208480390",
+            "name": "レビューFBによってドキュメントの修正",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204161455865870",
+            "name": "公開文の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204190146371066",
+            "name": "txn_orders_complete、txn_orders_cancel、txn_orders_refundのデータ反映時間",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204018592689279",
+            "name": "全社マートベータ版公開の準備",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204161455865874",
+            "name": "影響調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204161455865889",
+            "name": "3/17(金)出社準備",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204161455865879",
+            "name": "[qas-1]GCPコストの問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204141235058284",
+            "name": "user_COMMON.order_master_tbについて、state=AUTHORIZEDの質問",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204181107995775",
+            "name": "BIチームコードのレビュー",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204181107995782",
+            "name": "3/17朝会会議室の予約",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204124208480398",
+            "name": "KYC情報の問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203558804327742",
+            "name": "【問い合わせ】user_COMMON.order_transaction_tbのdst_amountについて",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1203964728556514",
+            "name": "Alipayのサービス開始日の問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204010161255910",
+            "name": "rt_周りのマスタ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204001667965470",
+            "name": "user_master.tbについて、stateがCANCELになったユーザーデータは残り続けるか",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204076326995380",
+            "name": "全社マートに統合したテーブルの洗い出し",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204061770309543",
+            "name": "公開案の作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204011051319218",
+            "name": "user_COMMONテーブルリストアップ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204062619334781",
+            "name": "レビュー用ドキュメントのリストアップ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204073917698390",
+            "name": "rt_paylite_fund.fund_order項目削除に伴う対応",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204012453556572",
+            "name": "事業推進部依頼されたSQLの作成",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204018592689268",
+            "name": "spheric-shield-213903.rt_kyc_summary.kyc_info_summaryの問い合わせ",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204012453556575",
+            "name": "事業推進部依頼されたSQLの編集",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204113986035650",
+            "name": "「rt_clm_santa.reward」と「rt_clm_santa.promo_event」編集に伴う全社マートの影響調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204268786418226",
+            "name": "rt_wallet_db2編集によって全社マート側の対応",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        },
+        {
+            "gid": "1204335738474533",
+            "name": "spheric-shield-213903.user_matsuki.fb_dpv_wpv_mpv_dau_wau_mau_tb更新仕組みの調査",
+            "resource_type": "task",
+            "resource_subtype": "default_task"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "data": {
+        "gid": "1204190146371062",
+        "actual_time_minutes": "None",
+        "assignee": {
+            "gid": "1201163250039347",
+            "name": "Kazuyuki Takeuchi",
+            "resource_type": "user"
+        },
+        "assignee_status": "inbox",
+        "completed": "True",
+        "completed_at": "2023-03-27T01:34:59.618Z",
+        "created_at": "2023-03-16T08:40:18.713Z",
+        "custom_fields": [
+            {
+                "gid": "1204190146370031",
+                "enabled": "True",
+                "enum_options": [
+                    {
+                        "gid": "1204190146370032",
+                        "color": "red",
+                        "enabled": "True",
+                        "name": "緊急",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204190146370033",
+                        "color": "orange",
+                        "enabled": "True",
+                        "name": "優先",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204190146370034",
+                        "color": "yellow",
+                        "enabled": "True",
+                        "name": "低い",
+                        "resource_type": "enum_option"
+                    }
+                ],
+                "enum_value": "None",
+                "name": "DataMart_優先度",
+                "description": "",
+                "created_by": {
+                    "gid": "1202911847688945",
+                    "name": "Wanyu Song",
+                    "resource_type": "user"
+                },
+                "display_value": "None",
+                "resource_subtype": "enum",
+                "resource_type": "custom_field",
+                "type": "enum"
+            },
+            {
+                "gid": "1204243686476907",
+                "enabled": "True",
+                "enum_options": [
+                    {
+                        "gid": "1204243686476908",
+                        "color": "green",
+                        "enabled": "True",
+                        "name": "全社マート",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476909",
+                        "color": "blue-green",
+                        "enabled": "True",
+                        "name": "問い合わせ(Jira)",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476911",
+                        "color": "yellow-green",
+                        "enabled": "True",
+                        "name": "問い合わせ(Slack)",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476912",
+                        "color": "yellow-orange",
+                        "enabled": "True",
+                        "name": "user_COMMON",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476916",
+                        "color": "magenta",
+                        "enabled": "True",
+                        "name": "チームタスク",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476929",
+                        "color": "indigo",
+                        "enabled": "True",
+                        "name": "データ規定",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476917",
+                        "color": "orange",
+                        "enabled": "True",
+                        "name": "その他",
+                        "resource_type": "enum_option"
+                    }
+                ],
+                "multi_enum_values": [
+                    {
+                        "gid": "1204243686476909",
+                        "color": "blue-green",
+                        "enabled": "True",
+                        "name": "問い合わせ(Jira)",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204243686476912",
+                        "color": "yellow-orange",
+                        "enabled": "True",
+                        "name": "user_COMMON",
+                        "resource_type": "enum_option"
+                    }
+                ],
+                "name": "DataMart_タスクタイプ",
+                "description": "",
+                "created_by": {
+                    "gid": "1202911847688945",
+                    "name": "Wanyu Song",
+                    "resource_type": "user"
+                },
+                "display_value": "問い合わせ(Jira), user_COMMON",
+                "resource_subtype": "multi_enum",
+                "resource_type": "custom_field",
+                "type": "multi_enum"
+            },
+            {
+                "gid": "1204360148387200",
+                "enabled": "True",
+                "enum_options": [
+                    {
+                        "gid": "1204360148387201",
+                        "color": "cool-gray",
+                        "enabled": "True",
+                        "name": "先方待ち",
+                        "resource_type": "enum_option"
+                    },
+                    {
+                        "gid": "1204360148387202",
+                        "color": "hot-pink",
+                        "enabled": "True",
+                        "name": "Pull Request",
+                        "resource_type": "enum_option"
+                    }
+                ],
+                "enum_value": "None",
+                "name": "DataMart_ステータス",
+                "description": "",
+                "created_by": {
+                    "gid": "1202911847688945",
+                    "name": "Wanyu Song",
+                    "resource_type": "user"
+                },
+                "display_value": "None",
+                "resource_subtype": "enum",
+                "resource_type": "custom_field",
+                "type": "enum"
+            }
+        ],
+        "due_at": "None",
+        "due_on": "None",
+        "followers": [
+            {
+                "gid": "1202911847688945",
+                "name": "Wanyu Song",
+                "resource_type": "user"
+            },
+            {
+                "gid": "1201163250039347",
+                "name": "Kazuyuki Takeuchi",
+                "resource_type": "user"
+            }
+        ],
+        "hearted": "False",
+        "hearts": [],
+        "liked": "False",
+        "likes": [],
+        "memberships": [
+            {
+                "project": {
+                    "gid": "1203935255445726",
+                    "name": "DM_DME_全社マート",
+                    "resource_type": "project"
+                },
+                "section": {
+                    "gid": "1203935568832441",
+                    "name": "Archive",
+                    "resource_type": "section"
+                }
+            }
+        ],
+        "modified_at": "2023-03-31T01:12:13.260Z",
+        "name": "マスターテーブル一覧・項目定義書のfb_custom_event_tbで項目の問い合わせ",
+        "notes": "    タスクの説明（依頼者記載）\nJiraタスク：\nhttps://paypay-jirasd.rickcloud.jp/jira/browse/CORPITSD-52197\n\nマスターテーブル一覧・項目定義書のfb_custom_event_tbで、\n6.event_nameと7.event_categoryのG列項目リファレンスのリンク先ファイルが削除されているようです。\nhttps://docs.google.com/spreadsheets/d/1pZsWUVWO2QEUwfaOfV9TYXs1wf3TbIDGlixikdtrPTg/edit#gid=1450248713&range=B10\n\nこちらの内容の新しいリンク先がありましたらご教示いただきたく、何卒よろしくお願いいたします。\n\n    進捗（作業者記載）\n2022/12/21 XXXX調査中\u3000メモ内容\n\n    <課題>（あれば）\n",
+        "num_hearts": 0,
+        "num_likes": 0,
+        "parent": "None",
+        "permalink_url": "https://app.asana.com/0/1203935255445726/1204190146371062",
+        "projects": [
+            {
+                "gid": "1203935255445726",
+                "name": "DM_DME_全社マート",
+                "resource_type": "project"
+            }
+        ],
+        "resource_type": "task",
+        "start_at": "None",
+        "start_on": "None",
+        "tags": [],
+        "resource_subtype": "default_task",
+        "workspace": {
+            "gid": "1108741572900490",
+            "name": "paypay-corp.co.jp",
+            "resource_type": "workspace"
+        }
+    }
+}

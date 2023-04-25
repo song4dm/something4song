@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "gid": "1203935568832437",
+            "name": "Epic Story",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935568832438",
+            "name": "User Story",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935568832439",
+            "name": "Backlog",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935255445727",
+            "name": "Todo(This week)",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935255445731",
+            "name": "In Progress",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935568832440",
+            "name": "In Review",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935255445732",
+            "name": "Done(Weekly)",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935568832441",
+            "name": "Archive",
+            "resource_type": "section"
+        },
+        {
+            "gid": "1203935568832442",
+            "name": "Pending",
+            "resource_type": "section"
+        }
+    ]
+}
