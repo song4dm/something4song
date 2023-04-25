@@ -101,8 +101,6 @@ def get_backlog_tasks(project_gid, base_url, headers):
             print(task_info["data"]["assignee"])
             if task_info["data"]["assignee"] != None:
                 task_infos.append({"gid":gid, "task_name":task_info["data"]["name"],"assignee":task_info["data"]["assignee"]["name"]})
-            else:
-                task_infos.append("None")
         print(task_infos)    
     else:
         print("Backlog section not exists.")
