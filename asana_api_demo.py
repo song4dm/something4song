@@ -68,7 +68,7 @@ def get_sections_in_project(project_gid, base_url, headers):
     sections_url = base_url + f"/projects/{project_gid}/sections"
     response = requests.get(sections_url, headers=headers)
     data = response.json()
-    # print(data)
+    # print(data)git 
     return data
 
 
